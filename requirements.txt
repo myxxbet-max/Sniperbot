@@ -1,1 +1,7 @@
- pillow python-telegram-bot==20.4 google-cloud-vision python-dotenv pandas numpy ta
+pillow
+python-telegram-bot==20.4
+google-cloud-vision
+python-dotenv
+pandas
+numpy
+ta
